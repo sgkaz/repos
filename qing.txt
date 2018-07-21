@@ -8,4 +8,3 @@ qing smart,lovely,beautiful
 Git is a free software.
 qing smart,lovely,beautiful
 Git is a free software.
-I like qing
